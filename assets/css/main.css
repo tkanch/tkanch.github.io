@@ -2382,7 +2382,7 @@ input, select, textarea {
 			text-decoration: none;
 			display: inline-block;
 			margin: 0 0 1.6875em 0;
-			padding: 0.35em 0 0 3.5em;
+			/* padding: 0.35em 0 0 3.5em; */
 			position: relative;
 			vertical-align: top;
 			width: 48%;
@@ -3077,7 +3077,7 @@ input, select, textarea {
 					}
 
 					#titleBar .toggle:before {
-						background: #0a89b0;
+						/* background: #0a89b0; */
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
